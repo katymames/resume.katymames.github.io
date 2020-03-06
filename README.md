@@ -1,1 +1,1 @@
-# resume.katymames.github.io
+# katymames.github.io
